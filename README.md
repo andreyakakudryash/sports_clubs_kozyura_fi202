@@ -66,11 +66,13 @@ INSERT INTO club_info (club_id, city_id, titles, average_age) VALUES
 Клонируйте репозиторий 
 
 Установите зависимости: go mod tidy
-...
+
 # Запуск
 
 Запустите backend: go run main.go
 
 Откройте в браузере: http://localhost:8080 
+
+# Демонстрация работы программы
 
 ![Демонстрация работы программы](demonstration.gif)
