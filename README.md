@@ -73,6 +73,4 @@ INSERT INTO club_info (club_id, city_id, titles, average_age) VALUES
 
 Откройте в браузере: http://localhost:8080 
 
-# Демонстрация работы программы
-
-<img src="/Users/andrejkozura/Documents/Андрюшка-программист 4.1/WB/sports_clubs/demonstration.gif">
+![Демонстрация работы программы](demonstration.gif)
